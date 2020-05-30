@@ -1,1 +1,1 @@
-include ':app', ':MyCropBitmap', ':.test'
+include ':app', ':MyCropBitmap'
